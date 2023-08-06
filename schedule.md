@@ -23,19 +23,19 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 19 Oct    |  | No class meeting |
 | 24 Oct    |  | Propensity scores: [Rosenbaum and Rubin (1983)](http://doi.org/10.1093/biomet/70.1.41) |
 | 26 Oct    |  | No class meeting |
-| 31 Oct    |  | Causal inference: [Pearl (2009)](http://doi.org/10.1214/09-SS057)  |
-| 2 Nov    |  | No class meeting  |
-| 7 Nov     |  | OHDSI: [Madigan et al. (2013)](https://doi.org/10.1093/aje/kwt010) |
+| 31 Oct    |  | Statistical modeling: the two cultures [Breiman (2001)](https://doi.org/10.1214/ss/1009213726) |
+| 2 Nov     |  | Statistical modeling (discussants) |
+| 7 Nov     |  | fMRI p-values: [Eklund et al. (2016)](https://doi.org/10.1073/pnas.1602413113) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/113/28/7900.full.pdf) letters and reply [![pdf logo](icons/pdf-icon.png)](assets/eklund_disc.pdf) |
 | 9 Nov     |  | No class meeting |
-| 14 Nov    |  | Data vis: [Lex et al. (2014)](https://doi.org/10.1109/TVCG.2014.2346248) |
-| 16 Nov    |  | No class meeting |
-| 21 Nov    |  | Data vis: [Majumder et al. (2013)](https://doi.org/10.1080/01621459.2013.808157) |
+| 14 Nov    |  | 50 years of data science: [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734) (w/ discussion: [![pdf logo](icons/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/blog/50_years_datasci_with_disc.pdf)) |
+| 16 Nov    |  | 50 years of data science (discussants) |
+| 21 Nov    |  | Bootstrap in regression: [Freedman and Peters (1984)](https://www.jstor.org/stable/2288341) [![pdf logo](icons/pdf-icon.png)](assets/freedman_peters_1984.pdf) |
 | 23 Nov    |  | No class meeting |
-| 28 Nov    |  | Gender shades: [Buolamwini & Gebru (2018)](http://proceedings.mlr.press/v81/buolamwini18a.html) [![pdf logo](icons/pdf-icon.png)](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf) |
-| 30 Nov    |  | No class meeting |
-| 5 Dec   |  | Statistical modeling: the two cultures [Breiman (2001)](https://doi.org/10.1214/ss/1009213726) |
+| 28 Nov    |  | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x) [![pdf logo](icons/pdf-icon.png)](http://bit.ly/32ovGFh) |
+| 30 Nov    |  | False discovery rates: [Storey and Tibshirani (2003)](https://doi.org/10.1073/pnas.1530509100) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/100/16/9440.full.pdf) |
+| 5 Dec   |  | Gene set enrichment: [Mootha et al. (2003)](https://doi.org/10.1038/ng1180) [![pdf logo](icons/pdf-icon.png)](assets/mootha2003.pdf), [Subramanian et al. (2005)](https://doi.org/10.1073/pnas.0506580102) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/102/43/15545.full.pdf) |
 | 7 Dec    |  | No class meeting |
-| 12 Dec     |  | tSNE: [van der Maaten & Hinton (2008)](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) \[[supplement](https://lvdmaaten.github.io/publications/misc/Supplement_JMLR_2008.pdf)\] |
+| 12 Dec     |  | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825) [![pdf logo](icons/pdf-icon.png)](https://www.nature.com/articles/nrg2825.pdf) |
 
 
 ---
