@@ -8,7 +8,7 @@ description: Syllabus for BMI 881, Biomedical data science scholarly literature
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (2 credits)
 
-**Course meetings**: Tu/Thu 8:30-9:20, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
+**Course meetings**: Tu/Thu 8:30-9:20, [1210 MSC](https://kbroman.org/1210msc.html)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 [6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
@@ -42,7 +42,7 @@ biomedical data.
 
 ### COVID-19
 
-- The course will be held in-person in [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
+- The course will be held in-person in [1210 MSC](https://kbroman.org/1210msc.html)
 - COVID-19 vaccination is strongly encouraged
 - Use of a high-quality mask is strongly encouraged
 - If you have COVID-related symptoms, please stay home
