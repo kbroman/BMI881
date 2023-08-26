@@ -1,0 +1,14 @@
+1. Tables -> Graphs
+2. Snow on cholera
+3. Lipids and heart disease
+4. Hormone replacement therapy
+5. Skin Cancer
+6. Mammography
+7. Propensity scores
+8. Breiman: the two cultures
+9. fMRI p-values
+10. 50 years of data science
+11. Bootstrap in regression
+12. False discovery rates (Benjamini & Hochberg; Storey and Tibshirani)
+13. Gene set enrichment
+14. Batch effects
