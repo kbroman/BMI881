@@ -47,6 +47,9 @@ biomedical data.
 - Use of a high-quality mask is strongly encouraged
 - If you have COVID-related symptoms, please stay home
 - If you need to miss class, [email Karl Broman](https://kbroman.org/about)
+- If you would like to join the class virtually, [email Karl
+  Broman](https://kbroman.org/about) in advance so he can arrange a
+  hybrid meeting; the zoom link is on the [course canvas site](https://canvas.wisc.edu/courses/375788).
 
 
 ### Discussion
