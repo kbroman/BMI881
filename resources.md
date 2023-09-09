@@ -23,6 +23,9 @@ Here are strategies I use:
 - Install the [unpaywall browser extension](https://unpaywall.org/products/extension),
   which may help you to find a free version of the article.
 
+- Search for the article through the [UW-Madison Library
+  website](https://library.wisc.edu). Go to <https://www.library.wisc.edu/#articles>.
+
 - Paste `ezproxy.library.wisc.edu` into the URL for the article.
   You'll get to a page asking for your NetID and password, but this
   could then give you immediate access to the article.
