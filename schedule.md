@@ -8,7 +8,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
 | 7 Sep   |    | [Course introduction ![pdf logo](icons/pdf-icon.png)](slides/00_intro_slides.pdf) (and see [resources](resources.html)) |
-| 12 Sep   |    | [Tables &rarr; graphs](slides/01a_gelman_slides.pdf): [Gelman et al. (2002)](https://doi.org/10.1198/000313002317572790) [![pdf logo](icons/pdf-icon.png)](http://courses.washington.edu/b572/public/Gelman2002.pdf) |
+| 12 Sep   |    | Tables &rarr; graphs: [Gelman et al. (2002)](https://doi.org/10.1198/000313002317572790) [![pdf logo](icons/pdf-icon.png)](http://courses.washington.edu/b572/public/Gelman2002.pdf) |
 | 14 Sep  |    | **No class** |
 | 19 Sep  |    | [Snow on Cholera](https://www.ph.ucla.edu/epi/snow/snowbook.html) [![pdf logo](icons/pdf-icon.png)](assets/snow_cholera.pdf) [![map 1](icons/pdf-icon.png)](https://www.ph.ucla.edu/epi/snow/snowmap1.pdf) [![map 2](icons/pdf-icon.png)](https://www.ph.ucla.edu/epi/snow/snowmap2.pdf) (through pg 68, "New water supply of the Lambeth Company") |
 | 21 Sep  |    | Complete [Snow on Cholera](https://www.ph.ucla.edu/epi/snow/snowbook.html)
