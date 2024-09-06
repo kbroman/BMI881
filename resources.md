@@ -35,6 +35,13 @@ Here are strategies I use:
   <http://doi.org.ezproxy.library.wisc.edu/10.1198/000313002317572790>.
   (Note the use of `http` rather than `https`.)
 
+- There's also an [ezproxy
+  extension](https://chromewebstore.google.com/detail/ezproxy-redirect/gfhnhcbpnnnlefhobdnmhenofhfnnfhi)
+  for Chrome.
+
+- Also try using [12 foot ladder](https://12ft.io), where you prepend
+  <https://12ft.io/> to a URL
+
 - Try using the [GlobalProtect VPN for
   UW-Madison](https://kb.wisc.edu/helpdesk/page.php?id=68164). Your
   IP addresss might look like you're on campus, and so you might get
