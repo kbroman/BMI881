@@ -32,4 +32,5 @@ biomedical data.
 - [assignments](assignments.html)
 - [resources](resources.html)
 
-- **[Homework 1](homework1.html) due 17 Oct 2024**
+- [Homework 1](homework1.html) due 17 Oct 2024
+- **[Homework 2](homework2.html) due 26 Nov 2024**
