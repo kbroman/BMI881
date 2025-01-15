@@ -31,7 +31,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 14 Nov    |  | 50 years of data science (discussants) |
 | 19 Nov    |  | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x) [![pdf logo](icons/pdf-icon.png)](http://bit.ly/32ovGFh) |
 | 21 Nov    |  | False discovery rates: [Storey and Tibshirani (2003)](https://doi.org/10.1073/pnas.1530509100) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/100/16/9440.full.pdf) |
-| 26 Nov    |  | Bootstrap in regression: [Freedman and Peters (1984)](https://www.jstor.org/stable/2288341) [![pdf logo](icons/pdf-icon.png)](assets/freedman_peters_1984.pdf) (**[Homework 2](homework2.html) due**) |
+| 26 Nov    |  | Bootstrap in regression: [Freedman and Peters (1984)](https://www.jstor.org/stable/2288341) [![pdf logo](icons/pdf-icon.png)](assets/freedman_peters_1984.pdf) |
 | 28 Nov    |  | **No class** |
 | 3 Dec   |  | Gene set enrichment: [Mootha et al. (2003)](https://doi.org/10.1038/ng1180) [![pdf logo](icons/pdf-icon.png)](assets/mootha2003.pdf), [Subramanian et al. (2005)](https://doi.org/10.1073/pnas.0506580102) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/102/43/15545.full.pdf) |
 | 5 Dec    |  | **No class** |

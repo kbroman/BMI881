@@ -155,9 +155,6 @@ simulation to investigate properties of methods discussed in an
 article, or application of the discussed methods to related biomedical
 data.
 
-- [Homework 1](homework1.html) due 17 Oct 2024
-- [Homework 2](homework2.html) due 26 Nov 2024
-
 
 ### Additional policies and statements
 
