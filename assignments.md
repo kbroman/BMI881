@@ -48,3 +48,9 @@ will involve an effort to reproduce the results of an article, the use
 of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
+
+### Generative AI
+
+**Do not** use generative AI / large language models, such as ChatGPT,
+for your article summaries or homework assignments. The writing should
+be entirely your own.
