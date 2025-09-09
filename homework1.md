@@ -4,7 +4,7 @@ title: homework 1
 description: "First homework assignment for BMI 881, Biomedical data science scholarly literature, on converting a table into a graph"
 ---
 
-**Due 16 Oct 2025**
+**Due 9 Oct 2025**
 
 Consider [Table 1 ![pdf
 icon](https://kbroman.org/BMI881/icons/pdf-icon.png)](assets/feigin2014_table1.pdf)
@@ -18,6 +18,7 @@ The data are available in [`feigin2014_table1_mortality.csv`](assets/feigin2014_
 2. Discuss your design choices. (Why did you choose this particular graph?)
 
 3. How would you make a comprehensive graph that includes all of the
-information in the table?
+information in the table (the additional outcomes incidence,
+prevalence, MIR, and DALYs lost)?
 
 Put any code in an appendix.

@@ -49,6 +49,8 @@ of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
 
+- [Homework 1](homework1.html) due **9 Oct 2025**
+
 ### Generative AI
 
 **Do not** use generative AI / large language models, such as ChatGPT,
