@@ -30,7 +30,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 11 Nov    |  | 50 years of data science: [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734) (w/ discussion: [![pdf logo](icons/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/blog/50_years_datasci_with_disc.pdf)) |
 | 13 Nov    |  | 50 years of data science (discussants) |
 | 18 Nov    |  | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x) [![pdf logo](icons/pdf-icon.png)](http://bit.ly/32ovGFh) |
-| 20 Nov    |  | False discovery rates: [Storey and Tibshirani (2003)](https://doi.org/10.1073/pnas.1530509100) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/100/16/9440.full.pdf) |
+| 20 Nov    |  | False discovery rates: [Storey and Tibshirani (2003)](https://doi.org/10.1073/pnas.1530509100) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/100/16/9440.full.pdf)  \[[Homework 2](homework2.html) due\] |
 | 25 Nov    |  | Bootstrap in regression: [Freedman and Peters (1984)](https://www.jstor.org/stable/2288341) [![pdf logo](icons/pdf-icon.png)](assets/freedman_peters_1984.pdf) |
 | 27 Nov    |  | **No class** |
 | 2 Dec   |  | Gene set enrichment: [Mootha et al. (2003)](https://doi.org/10.1038/ng1180) [![pdf logo](icons/pdf-icon.png)](assets/mootha2003.pdf), [Subramanian et al. (2005)](https://doi.org/10.1073/pnas.0506580102) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/102/43/15545.full.pdf) |
