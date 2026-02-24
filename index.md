@@ -20,7 +20,8 @@ of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
 
-**Course meetings**: Tu/Thu 8:30-9:20, 5530 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8)
+**Course meetings**: Tu/Thu 8:30-9:20, location TBD
+<!-- 5530 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8) -->
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 5665 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8)
