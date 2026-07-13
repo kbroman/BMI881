@@ -8,8 +8,7 @@ description: Syllabus for BMI 881, Biomedical data science scholarly literature
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (2 credits)
 
-**Course meetings**: Tu/Thu 8:30-9:20, location TBD
-<!-- 5530 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8) -->
+**Course meetings**: Tu/Thu 8:30-9:20, location 5530 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 5665 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8)
