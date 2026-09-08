@@ -33,3 +33,5 @@ biomedical data.
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
 - [resources](resources.html)
+
+- [Homework 1](homework1.html) due **8 Oct 2026**
