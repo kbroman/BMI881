@@ -58,3 +58,8 @@ Here are strategies I use:
 - [Dotplot graph
   example](https://kbroman.org/blog/2014/10/29/improved-graphs-of-car-crash-stats/)
   on Karl's blog
+
+### Snow on Cholera
+
+- [The ghost map](https://search.library.wisc.edu/catalog/9910025133402121) by Steven Johnson
+- [The strange case of the Broad Street pump](https://search.library.wisc.edu/catalog/9910021161202121) by Sandra Hempel
