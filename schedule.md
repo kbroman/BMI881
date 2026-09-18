@@ -19,7 +19,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 1 Oct   |    | **No class** |
 | 6 Oct  |    | Mammography: [Berry (1998)](https://doi.org/10.1093/jnci/90.19.1431), [Kopans and Halpern (1999)](https://doi.org/10.1093/jnci/91.4.382) |
 | 8 Oct   |    | **No class** |
-| 13 Oct |  | Propensity scores: [Rosenbaum and Rubin (1983)](http://doi.org/10.1093/biomet/70.1.41) |
+| 13 Oct |  | Propensity scores: [Rosenbaum and Rubin (1983)](https://doi.org/10.1093/biomet/70.1.41) |
 | 15 Oct    |  | **No class** |
 | 20 Oct    |  | Skin cancer: [Wang et al. (2019)](https://doi.org/10.1001/jamadermatol.2019.2335)
 | 22 Oct    |  | **No class** |
