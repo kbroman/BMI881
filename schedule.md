@@ -29,7 +29,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 5 Nov     |  | **No class** |
 | 10 Nov    |  | **No class** |
 | 12 Nov    |  | **No class** |
-| 17 Nov    |  | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x) [![pdf logo](icons/pdf-icon.png)](http://bit.ly/32ovGFh) |
+| 17 Nov    |  | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x) [![pdf logo](icons/pdf-icon.png)](https://bit.ly/32ovGFh) |
 | 19 Nov    |  | False discovery rates: [Storey and Tibshirani (2003)](https://doi.org/10.1073/pnas.1530509100) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/100/16/9440.full.pdf) |
 | 24 Nov    |  | 50 years of data science: [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734) (w/ discussion: [![pdf logo](icons/pdf-icon.png)](https://kbroman.org/BMI881/assets/50_years_datasci_with_disc.pdf)) |
 | 26 Nov    |  | **No class** |
