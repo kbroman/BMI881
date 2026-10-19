@@ -62,4 +62,5 @@ Here are strategies I use:
 ### Snow on Cholera
 
 - [The ghost map](https://search.library.wisc.edu/catalog/9910025133402121) by Steven Johnson
+
 - [The strange case of the Broad Street pump](https://search.library.wisc.edu/catalog/9910021161202121) by Sandra Hempel
