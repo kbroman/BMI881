@@ -50,6 +50,7 @@ in an article, or application of the discussed methods to related
 biomedical data.
 
 - [Homework 1](homework1.html) due 8 Oct 2026
+- [Homework 2](homework2.html) due **19 Nov 2026**
 
 ### Generative AI
 
